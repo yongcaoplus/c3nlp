@@ -1,4 +1,4 @@
-base_url = "https://lm4uc.github.io"
+base_url = "https://yongcaoplus.github.io/c3nlp/"
 compile_sass = true
 build_search_index = false
 generate_feeds = false
@@ -10,10 +10,9 @@ highlight_theme = "css"
 smart_punctuation = true
 
 [extra]
-footer_text = "This website is built using [Zola](https://www.getzola.org) and the [Academic Workshop](http://github.com/aterenin/academic-workshop/) theme, which is [designed to last](https://jeffhuang.com/designed_to_last/)."
-title = {tagline = "NAACL 2025 Workshop", title = "Language Models for Underserved Communities", subtitles = ["Albuquerque, New Mexico", "May 04, 2025"]}
+title = {tagline = "NAACL 2025 Workshop", title = C3NLP", subtitles = ["Albuquerque, New Mexico", "May 04, 2025"]}
 banner = {extension = "svg", size = "fixed", fade = true}
-buttons = [{name = "Register", url = "#"}, {name="Submit Paper", url="https://openreview.net/group?id=aclweb.org/NAACL/2025/Workshop/LM4UC"}]
+buttons = [{name = "Register", url = "#"}, {name="Submit Paper", url="https://openreview.net/"}]
 image = {resize = 400, ext = '.jpg'}
 list_page_limit = 10
 header_pages = [{name = "Home", url = "/#home"}]
